@@ -13,6 +13,6 @@ write.table(Nich_Price_quantitative,file=paste(currentDir,"Nich_Price_quantitati
 load(paste(currentDir,"annot_dummies.RData",sep="/"))
 str(annot_dummies)
 annot_dummies=ifelse(annot_dummies==T,1,0)
-write.table(annot_dummies,file=paste(currentDir,"annot_dummies.csv",sep="/"),sep=",",quote=F,row.names = T,col.names = T)
+write.csv(annot_dummies,file=paste(currentDir,"annot_dummies.csv",sep="/"),quote=F,row.names = T)
 
 
