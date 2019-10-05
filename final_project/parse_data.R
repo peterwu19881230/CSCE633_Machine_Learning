@@ -7,4 +7,4 @@ str(Nich_Price_quantitative)
 
 Nich_Price_quantitative=Nich_Price_quantitative[order(as.numeric(rownames(Nich_Price_quantitative))),]
 
-write.table(Nich_Price_quantitative,file=paste(currentDir,"Nich_Price_quantitative.txt",sep="/"),sep="\t",quote=F)
+write.csv(Nich_Price_quantitative,file=paste(currentDir,"Nich_Price_quantitative.csv",sep="/"),quote=F)
