@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,{},{},{},{},{}
+1,{},{},{},{},{}
+2,{},{},{},{},{}
+3,{},{},{},{},{}
+4,"{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 100}","{'criterion': 'entropy', 'max_depth': 5, 'n_estimators': 50}","{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 50}","{'criterion': 'entropy', 'max_depth': 5, 'n_estimators': 100}","{'criterion': 'gini', 'max_depth': 10, 'n_estimators': 50}"
+5,"{'criterion': 'gini', 'max_depth': 10, 'n_estimators': 25}","{'criterion': 'gini', 'max_depth': 100, 'n_estimators': 25}","{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 200}","{'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 10}","{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 10}"
+6,"{'max_depth': 1, 'n_estimators': 50}","{'max_depth': 10, 'n_estimators': 10}","{'max_depth': 1, 'n_estimators': 100}","{'max_depth': 1, 'n_estimators': 400}","{'max_depth': 1, 'n_estimators': 200}"
+7,"{'max_depth': 1, 'n_estimators': 20}","{'max_depth': 1, 'n_estimators': 100}","{'max_depth': 1, 'n_estimators': 100}","{'max_depth': 1, 'n_estimators': 400}","{'max_depth': 1, 'n_estimators': 100}"
+8,"{'C': 100, 'degree': 2, 'kernel': 'poly'}","{'C': 100, 'degree': 1, 'kernel': 'rbf'}","{'C': 100, 'degree': 3, 'kernel': 'poly'}","{'C': 1, 'degree': 1, 'kernel': 'linear'}","{'C': 1000, 'degree': 3, 'kernel': 'poly'}"
+9,"{'C': 1, 'degree': 1, 'kernel': 'linear'}","{'C': 100, 'degree': 2, 'kernel': 'poly'}","{'C': 1, 'degree': 1, 'kernel': 'linear'}","{'C': 100, 'degree': 4, 'kernel': 'poly'}","{'C': 100, 'degree': 1, 'kernel': 'sigmoid'}"
+10,{},{},{},{},{}
+11,{},{},{},{},{}
